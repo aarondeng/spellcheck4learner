@@ -1,0 +1,590 @@
+Wrong	Corrected	Index	Sentence	File Name
+cowplet	couplet	33	The Spring Festival in My Hometown , a few days before it , many will go out to purchase , New Year 's eve that day we 'll stick in your own door cowplet , each major market will hang a lantern .	TECCL00003.txt
+phenomenas	phenomena	9	First , the lack of sleep contributes to the phenomenas that some college students ca n't help deserting , ca n't force their attention on test-book , and even sleep at class .	TECCL00008.txt
+Eexcessive	Excessive	0	Eexcessive consumption may lead to theft and robbery .	TECCL00010.txt
+seeked	sought	11	Meanwhile , he was deprived political right for life and was seeked redress demand satisfaction for 45498 .	TECCL00020.txt
+ocialist	socialist	9	Every citizen should play an active role in the ocialist law construction .	TECCL00020.txt
+casted	cast	12	Above all , death penalty is an out-of-date sentence which should be casted away as those cruel punishments used by savages .	TECCL00030.txt
+defensing	defending	13	These people are really selfish and inferiority , putting on the flag of defensing the law to cover up fragility in the mind , and protect their profit without being existed to ignore everything and outmatch above the law .	TECCL00032.txt
+cruelest	cruellest	6	There is no doubt that the cruelest is the death penalty which takes someone 's life away .	TECCL00043.txt
+advangtages	advantages	4	But there are many advangtages and disadvantages towards it .	TECCL00049.txt
+aiways	always	6	In sum , helping others is aiways a virtue .	TECCL00050.txt
+ptivate	private	26	To sum up , in order to let our country become more and more beautiful , it is necessary for us to put a limit on ptivate cars .	TECCL00052.txt
+ramain	remain	16	As an old saying goes , `` Give roses to others and the lasting fragrance will ramain in your hand .	TECCL00055.txt
+hige	high	12	Some people thing it 's a bad idea for universities to charge hige tuition fees .	TECCL00056.txt
+Butthey	But they	0	Butthey can not afford the high tuition fees .	TECCL00056.txt
+knowledeg	knowledge	6	We come to universities to learn knowledeg and manners .	TECCL00056.txt
+dood	good	7	We will learn how to be a dood man in universities which charge low tuition fees .	TECCL00056.txt
+presure	pressure	5	Second , know your blood presure , a number being even more important than cholesteol and do whatever it takes to get it down to 115/75 .	TECCL00059.txt
+cholesteol	cholesterol	14	Second , know your blood presure , a number being even more important than cholesteol and do whatever it takes to get it down to 115/75 .	TECCL00059.txt
+cholesteral	cholesterol	7	Not only can nuts raise HDL good cholesteral and decrease inflammation , but alse they have a heart benefit independent of those .	TECCL00059.txt
+alse	also	13	Not only can nuts raise HDL good cholesteral and decrease inflammation , but alse they have a heart benefit independent of those .	TECCL00059.txt
+healhy	healthy	26	Fourth , learn your HDL number and do what you can to raise it to 50 by exercising , having one drink a day , eating healhy fats , such as olive and canola oil and nuts .	TECCL00059.txt
+priodontal	periodontal	8	Sixth , floss your teeth regularly , avoiding priodontal disease and preventing inflammation .	TECCL00059.txt
+difficultsies	difficulties	5	I can imagine how many difficultsies and obstacles you 've conquered .	TECCL00063.txt
+dorctor	doctor	26	Firstly , with the internet we can access everywhere easily , we can travel the world , go shopping , go to school , see a dorctor , do business and do many things you could imagine , most importantly , we could do all those things without leaving our house , Secondly , we could get information conveniently , if you are student , you can find all kinds of useful learning material , if you are worker , you can write edit and submit articles via email , chat with your collegues on line and disguss work with your boss , what'more , you can get all the data you needed and keep up with the latest news , Lastly , the internet make our life more freedom , we could speed more time in doing interesting things , as for working , it moves into background .	TECCL00064.txt
+collegues	colleagues	93	Firstly , with the internet we can access everywhere easily , we can travel the world , go shopping , go to school , see a dorctor , do business and do many things you could imagine , most importantly , we could do all those things without leaving our house , Secondly , we could get information conveniently , if you are student , you can find all kinds of useful learning material , if you are worker , you can write edit and submit articles via email , chat with your collegues on line and disguss work with your boss , what'more , you can get all the data you needed and keep up with the latest news , Lastly , the internet make our life more freedom , we could speed more time in doing interesting things , as for working , it moves into background .	TECCL00064.txt
+disguss	discuss	97	Firstly , with the internet we can access everywhere easily , we can travel the world , go shopping , go to school , see a dorctor , do business and do many things you could imagine , most importantly , we could do all those things without leaving our house , Secondly , we could get information conveniently , if you are student , you can find all kinds of useful learning material , if you are worker , you can write edit and submit articles via email , chat with your collegues on line and disguss work with your boss , what'more , you can get all the data you needed and keep up with the latest news , Lastly , the internet make our life more freedom , we could speed more time in doing interesting things , as for working , it moves into background .	TECCL00064.txt
+contries	countries	7	The similar result also exist in other contries such as Germany , US , UK , and so on .	TECCL00065.txt
+devlopment	development	15	In my opinion , father 's effect is as important as a mother to the devlopment of a child .	TECCL00065.txt
+communiate	communicate	5	Mother tells us how to communiate with others and has an essential impact on EQ like our emotional expression .	TECCL00065.txt
+enthusiasim	enthusiasm	5	Our father contributes to our enthusiasim and our achievement in pusuing our dreams .	TECCL00065.txt
+pusuing	pursuing	10	Our father contributes to our enthusiasim and our achievement in pusuing our dreams .	TECCL00065.txt
+cen	can	4	A variety of phones cen be seen here and there .	TECCL00067.txt
+protable	portable	10	Secondly , it 's convenient for people to carry something protable with them .	TECCL00067.txt
+carrys	carries	2	The blood carrys them to the cells in all parts of the body , and they take part in the cell 's metabolism .	TECCL00068.txt
+Acctually	Actually	0	Acctually , digestion is a kind of reflex .	TECCL00070.txt
+shoppping	shopping	0	shoppping on line is becoming a fashion .	TECCL00072.txt
+benifits	benefits	4	Online shopping has many benifits .	TECCL00072.txt
+benifits	benefits	6	yes , online shopping has many benifits , but we all know everything has two side , and online shopping is not exceted .	TECCL00072.txt
+exceted	excited	22	yes , online shopping has many benifits , but we all know everything has two side , and online shopping is not exceted .	TECCL00072.txt
+onlineand	online and	17	We ca n't buy anything online , and there are many people be cheated when they shopping onlineand so on .	TECCL00072.txt
+weare	we are	13	In my opinion , we can shopping online , but we must sure weare salf .	TECCL00072.txt
+salf	safe	14	In my opinion , we can shopping online , but we must sure weare salf .	TECCL00072.txt
+Ilike	I like	0	Ilike shopping on the internet and I will buy many things , such as clothes , shoes , digital products and so on !	TECCL00075.txt
+Nowdays	Nowadays	0	Nowdays many people prefer online shopping because it plays a significant role in our daily life .	TECCL00077.txt
+Pitifu	Pitiful	0	Pitifu boys and girls just look the vacant seats but nowhere to seat .	TECCL00078.txt
+frightenly	frightened	15	the reason is people 's information be stolen by hackers , which really made us frightenly .	TECCL00079.txt
+thrid	third	1	the thrid , it also can help police to find or catch a ceamer .	TECCL00079.txt
+persener	personal	2	In my persener note , CHINA can use the NRS , becuse the postive efficts much bigger than the sad effects .	TECCL00079.txt
+becuse	because	11	In my persener note , CHINA can use the NRS , becuse the postive efficts much bigger than the sad effects .	TECCL00079.txt
+postive	positive	13	In my persener note , CHINA can use the NRS , becuse the postive efficts much bigger than the sad effects .	TECCL00079.txt
+efficts	effects	14	In my persener note , CHINA can use the NRS , becuse the postive efficts much bigger than the sad effects .	TECCL00079.txt
+sudents	students	3	Besides , some sudents are addicted to online games in order to dispose of their spare time because teachers and parents can not oversee them .	TECCL00083.txt
+influance	influence	13	But at the same time , we should be alert to the negative influance of computers .	TECCL00083.txt
+Nowdays	Nowadays	0	Nowdays attending college means a lot to us .	TECCL00084.txt
+Nowdays	Nowadays	0	Nowdays in many of the university campus are common occupation phenomenon .	TECCL00088.txt
+restanurant	restaurant	7	whether in the classroom , library or restanurant it is often seen .	TECCL00088.txt
+consciontious	conscious	6	Because some students occupation but not consciontious learning but occpy others learn place .	TECCL00088.txt
+occpy	occupy	9	Because some students occupation but not consciontious learning but occpy others learn place .	TECCL00088.txt
+weast	waste	29	In my opinion , I think that if the seat can be fully utilized is acceptable , but if it is only a seat but not use is a weast of resources .	TECCL00088.txt
+firecrckers	firecrackers	20	Setting off firecrackers is one of ways people express happiness during spring festival , however , thanks to set off firecrckers result in some security and environment matter always happen in society .	TECCL00089.txt
+phemonenon	phenomenon	8	so we should pay our attentions to this phemonenon	TECCL00089.txt
+firecracks	firecrackers	27	I always can see this phenomenon in my hometown , especially , when a family have happy event to host , then they will certainly set off firecracks in the day time or at night .	TECCL00089.txt
+commom	common	5	so this phenomenon is very commom in china .	TECCL00089.txt
+firecrackerc	firecracker	14	I think this phenomenon should be forbid , first of all , setting off firecrackerc can release some harmful gases to air , it lead to environmental pollution , second , it is risky to children and might do n injury to them .	TECCL00089.txt
+neigborhoods	neighborhood	11	thirdly , it bring noise and have an big effect on neigborhoods when they are sleeping or rest .	TECCL00089.txt
+shoulld	should	5	In a short , we shoulld resort other ways to express happiness or celebrate festival take place of set off firecrackers .	TECCL00089.txt
+Dramaticlly	Dramatically	0	Dramaticlly , more and more students prefer keeping seats gradually , including me .	TECCL00090.txt
+compitition	competition	1	And compitition is also a threat .	TECCL00091.txt
+exmple	example	1	For exmple .	TECCL00091.txt
+reseving	reserving	4	And some students only reseving a seat , but then maybe not study , so affect other student 's study .	TECCL00091.txt
+opinon	opinion	2	In my opinon , this phenomenon is not increased .	TECCL00091.txt
+studens	students	5	Or we maybe hurt other studens .	TECCL00091.txt
+Similary	Similarly	0	Similary they get out of bed was late and no time to have breakfast .	TECCL00092.txt
+Sencondly	Secondly	0	Sencondly lose weight on a diet .	TECCL00092.txt
+Espcially	Especially	0	Espcially the girl , the vast majority of girl have experience of `` lose weight '' .	TECCL00092.txt
+couge	courage	11	I thought it is the power of dream gave me the couge to sit in a classroom again .	TECCL00099.txt
+ture	true	5	My dream had not come ture , I had to gone for it .	TECCL00099.txt
+pians	pains	1	No pians , no gains .	TECCL00099.txt
+waked	woke	5	In the morning , I waked up early to recite the crucial articles , formulas and poems and so on .	TECCL00110.txt
+Howere	However	0	Howere , There are no body willing to accept it , and to some extent , series of damaged wars occurred .	TECCL00114.txt
+Indeedfriend	Indeed friend	0	Indeedfriend must go through trials and tribulations together .	TECCL00115.txt
+contray	contrary	5	However , the fact is contray to my thought , the college life is not so great as I think .	TECCL00124.txt
+beliefsand	beliefs and	10	And the life in college makes me build my own beliefsand values , I have my own thoughts about future , and I 'm clear that what kind of people I want to be in the future and I 'm striving to the direction .	TECCL00124.txt
+dilipent	diligent	5	I think I 'll more dilipent to chase my dream with a grateful heart !	TECCL00124.txt
+Neverthless	Nevertheless	0	Neverthless when he is going down to the last step .	TECCL00125.txt
+exemple	example	1	For exemple : he can communicate with other people , he can deal with many problems , he can do many things .	TECCL00126.txt
+saftey	safety	3	So in our saftey we must be cation !	TECCL00127.txt
+chent	cheat	4	It lead to the chent , mading ous lost money .	TECCL00128.txt
+mading	making	6	It lead to the chent , mading ous lost money .	TECCL00128.txt
+ous	us	7	It lead to the chent , mading ous lost money .	TECCL00128.txt
+conside	consider	1	I conside that whatever we do .	TECCL00129.txt
+opptunitiy	opportunity	6	medical in school , got an opptunitiy to work in a hospital .	TECCL00133.txt
+adition	addition	1	In adition , the library is great .	TECCL00136.txt
+caneducate	can educate	6	I hope when they back home caneducate their country brother .	TECCL00138.txt
+vist	visit	5	Wherever my foreign friend to vist , I will try my best to take him to visit that I think the most interesting place .	TECCL00139.txt
+foregin	foreign	2	If my foregin friend want to vist my campus .	TECCL00139.txt
+vist	visit	6	If my foregin friend want to vist my campus .	TECCL00139.txt
+foregin	foreign	2	If my foregin friend want to vist my hometown , I 'd like to take him to see the Wangshanhu .	TECCL00139.txt
+vist	visit	6	If my foregin friend want to vist my hometown , I 'd like to take him to see the Wangshanhu .	TECCL00139.txt
+vist	visit	8	Otherwise , if my foreign friend want to vist China .	TECCL00139.txt
+advrise	advise	1	I advrise him to visit Wuhu Fandte .	TECCL00139.txt
+eaxmple	example	1	For eaxmple , HUShi MeiWenDing .	TECCL00141.txt
+lotous	lotus	5	The lake have too much lotous flowers in summer .	TECCL00142.txt
+significantive	significant	16	If you come , you can not miss this chance to know my hometown interesting and significantive culture .	TECCL00142.txt
+frst	first	2	it was frst created by the Qin Dinasty by the kindom .	TECCL00144.txt
+kindom	kingdom	10	it was frst created by the Qin Dinasty by the kindom .	TECCL00144.txt
+He藠s	his	0	He藠s name is Yin zhen .	TECCL00144.txt
+beagn	began	1	it beagn history of nearly 2000 years .	TECCL00144.txt
+destoryed	destroyed	3	Though it be destoryed in some parts .	TECCL00144.txt
+nealy	nearly	1	but nealy every dinasty in china tried its best to repair it as soon as possible .	TECCL00144.txt
+dinasty	dynasty	3	but nealy every dinasty in china tried its best to repair it as soon as possible .	TECCL00144.txt
+aplace	a place	6	today the Great Wall has become aplace of interest not only to the chinese , but to people from all over the world .	TECCL00144.txt
+sipirt	spirit	30	l take you to visit the Geat Wall , want you can see china shows wisdom with talents of the traditional chinese people , and you will feel chinese strool sipirt .	TECCL00144.txt
+acient	ancient	2	There are acient buildings in mountains , attracing a great many people to take photos with them .	TECCL00146.txt
+attracing	attracting	7	There are acient buildings in mountains , attracing a great many people to take photos with them .	TECCL00146.txt
+delious	delicious	7	What is more , a variety of delious foods are tempting .	TECCL00146.txt
+Ibelieve	I believe	0	Ibelieve that my foreign friend have a good time .	TECCL00146.txt
+tasteauthentic	taste authentic	14	Not only can he appreciate the landscape of the Xiangshan Park , but also tasteauthentic Northeast food .	TECCL00146.txt
+visting	visiting	13	Last but not least , hope you can have a good time in visting my campus !	TECCL00147.txt
+tirp	trip	2	During te tirp i wish him can know china is a beatiful place to live in and learn some poitive things .	TECCL00148.txt
+beatiful	beautiful	11	During te tirp i wish him can know china is a beatiful place to live in and learn some poitive things .	TECCL00148.txt
+poitive	positive	19	During te tirp i wish him can know china is a beatiful place to live in and learn some poitive things .	TECCL00148.txt
+decilious	delicious	12	In Beijing , I most impress is the Beijing duck fell very decilious .	TECCL00149.txt
+wealther	wealthier	3	I felt the wealther in Beijing was hot , also very dry .	TECCL00149.txt
+muicipal	municipal	6	To some extant , the beijing muicipal my favourate , but there are many beautiful place in China .	TECCL00149.txt
+favourate	favourite	8	To some extant , the beijing muicipal my favourate , but there are many beautiful place in China .	TECCL00149.txt
+mounments	monuments	16	So I am looking forward to paying a visit to Beijing and looking around all the mounments in Beijing .	TECCL00149.txt
+homeown	hometown	1	My homeown is located in the northeast of Anhui Provience .	TECCL00150.txt
+beatiful	beautiful	3	It is a beatiful city and famous with coal .	TECCL00150.txt
+huose	house	7	The clear water flowing quietly near my huose everyday .	TECCL00150.txt
+smal	small	5	Even though my hometown is smal , it has a quantity of earth where grows all kinds of crops .	TECCL00150.txt
+freash	fresh	8	Walking along the narrow road , breathing the freash air and you will fell that 's so wonderful .	TECCL00150.txt
+cherden	children	11	I still remember when I was young , we , all cherden got together to go swimming , having a bath in river which makes you feel comefortable every summer day .	TECCL00150.txt
+comefortable	comfortable	27	I still remember when I was young , we , all cherden got together to go swimming , having a bath in river which makes you feel comefortable every summer day .	TECCL00150.txt
+slao	also	12	Not only the environment and specialty are beautiful and famous , but slao the people in my hometown is kind and good .	TECCL00150.txt
+welcom	welcome	14	They are willing to help people in trouble and they are very happy to welcom to one who comes fome everywhere to visit here .	TECCL00150.txt
+fome	from	19	They are willing to help people in trouble and they are very happy to welcom to one who comes fome everywhere to visit here .	TECCL00150.txt
+scenerywill	scenery will	1	the scenerywill make you like wonderlond , the air is crisp , the trees are luxuriant , the sky is bule , the lake is so clear that you can see the bottom , and the bird fly freedom .	TECCL00151.txt
+wonderlond	wonderland	5	the scenerywill make you like wonderlond , the air is crisp , the trees are luxuriant , the sky is bule , the lake is so clear that you can see the bottom , and the bird fly freedom .	TECCL00151.txt
+bule	blue	20	the scenerywill make you like wonderlond , the air is crisp , the trees are luxuriant , the sky is bule , the lake is so clear that you can see the bottom , and the bird fly freedom .	TECCL00151.txt
+kown	known	16	And you will be interested in my matile dialect , because it is very hard to kown , but is very interestry .	TECCL00151.txt
+interestry	interested	21	And you will be interested in my matile dialect , because it is very hard to kown , but is very interestry .	TECCL00151.txt
+thouand	thousand	11	in my hometown os have a scenic spot , call Five thouand WENBO garden , is very big , you need take one day to see the scenery , In the garden , there are dragons made soil , the big bird made tree , in the water , many fishes swin freedon .	TECCL00151.txt
+swin	swim	51	in my hometown os have a scenic spot , call Five thouand WENBO garden , is very big , you need take one day to see the scenery , In the garden , there are dragons made soil , the big bird made tree , in the water , many fishes swin freedon .	TECCL00151.txt
+freedon	freedom	52	in my hometown os have a scenic spot , call Five thouand WENBO garden , is very big , you need take one day to see the scenery , In the garden , there are dragons made soil , the big bird made tree , in the water , many fishes swin freedon .	TECCL00151.txt
+colourfu	colorful	5	Our school life is very colourfu .	TECCL00152.txt
+histsory	history	24	Nowadays , when getting the top of it , we will find how beautiful our country is , and it also confirms the long histsory and culture .	TECCL00156.txt
+contry	country	12	I 'm very glad that my foreign friend will come to my contry .	TECCL00158.txt
+encomy	economy	5	With the rapid development of encomy , the Tian An Men Square can show the strength and beauty of our country .	TECCL00158.txt
+arriveal	arrival	4	I will welcome your arriveal .	TECCL00160.txt
+konw	know	3	As we all konw , China is an ancient country with over five thousand years history and there are many beautiful places all around the country .	TECCL00161.txt
+atractive	attractive	19	Besides the Great Wall , I 'd like to take him to the Yellow Mountain , it 's an atractive place and theren are thousands of tourists to come here every year .	TECCL00161.txt
+theren	there	22	Besides the Great Wall , I 'd like to take him to the Yellow Mountain , it 's an atractive place and theren are thousands of tourists to come here every year .	TECCL00161.txt
+foeign	foreign	8	I want to show the great scenary to foeign friends .	TECCL00161.txt
+hime	him	10	If he came to my home , I will take hime to play home lake .	TECCL00163.txt
+iake	lake	15	In the summer , my friend and I often went to swim , in the iake fish .	TECCL00163.txt
+angone	anyone	4	they catch fish than angone else .	TECCL00163.txt
+peopie	people	22	I love the hometown of the lake , so I would like to take home lake introduced to him , let more peopie appreciate the beauty of it .	TECCL00163.txt
+arround	around	4	I will follow him arround some place .	TECCL00165.txt
+esercise	exercise	9	If the weather is bad , we also can esercise .	TECCL00165.txt
+Finlly	Finally	0	Finlly , I will take him to visit our school artificial lake .	TECCL00165.txt
+beautific	beautiful	8	In a word , My collage school is beautific , Welcome to my campus !	TECCL00165.txt
+mony	many	9	There has different temperature it can be suitable for mony animal and plants to grow .	TECCL00166.txt
+intrests	interests	10	He called me to show him around the places of intrests .	TECCL00167.txt
+intrests	interests	5	There are many places of intrests there .	TECCL00167.txt
+eill	will	2	So i eill take my penfriend to visit The Great Wall .	TECCL00167.txt
+camn	came	6	However , if a foreign friend camn to my hometown , i would conduct him to enjoy the beautiful night sky , then you will see many light starts in the black night sky , you will listen to melodious bug tweet , listen to stream sounds .	TECCL00168.txt
+brautiful	beautiful	13	Country is not more bustling than big city , but there are many brautiful things different from big city , there is clean air , blue sky and golden rice , it 's so beautiful , i think my foreign friend must like it .	TECCL00168.txt
+empar	emperor	4	The great wall is empar who used many years and spent a lot of energy buiding it .	TECCL00170.txt
+buiding	building	15	The great wall is empar who used many years and spent a lot of energy buiding it .	TECCL00170.txt
+pround	proud	8	This is the place where I 'm very pround , and it 's alao an interest place .	TECCL00170.txt
+alao	also	13	This is the place where I 'm very pround , and it 's alao an interest place .	TECCL00170.txt
+histoy	history	37	Of course , I will invite my fiend to walk it on his own , this will help him to have a deep insight of the great wall , this can also let him know the long histoy of China , and he will know more ahout the culture of China .	TECCL00170.txt
+ahout	about	46	Of course , I will invite my fiend to walk it on his own , this will help him to have a deep insight of the great wall , this can also let him know the long histoy of China , and he will know more ahout the culture of China .	TECCL00170.txt
+chinaese	chinese	9	In contrast , he will find the sprits of chinaese is so admireing .	TECCL00170.txt
+admireing	admiring	12	In contrast , he will find the sprits of chinaese is so admireing .	TECCL00170.txt
+descriping	describing	13	The last but not the least , I will also have a detail descriping of the great wall and let him konw more about the county that has a fifty handred years history .	TECCL00170.txt
+konw	know	21	The last but not the least , I will also have a detail descriping of the great wall and let him konw more about the county that has a fifty handred years history .	TECCL00170.txt
+handred	hundred	30	The last but not the least , I will also have a detail descriping of the great wall and let him konw more about the county that has a fifty handred years history .	TECCL00170.txt
+pleause	pleasure	11	Hearing you will come to my campus , i 'm very pleause .	TECCL00171.txt
+shhool	school	9	Firstly , i will company with you to visit shhool library , because our school library have many different books , from there you can learn more chinese culture , our school library has more 200 years history , our school is famous for the library , i will comprehension the history , i believe you will know more chinese culture .	TECCL00171.txt
+aky	sky	11	Secondly , i will company with you to visit my school aky bridge , in our country , as we all know , our school have a sky bridge , it has very long and and across street , everyday there full of student , from there they can they can see many beautiful flowers and campus , after that , i will company with you to visit my classroom , because there full of chinese culture , you can see many experience teacher 's and active student 's , if you want exerpence chinese culture , i will company with you , i believe you can beneficial from the class .	TECCL00171.txt
+exerpence	experience	93	Secondly , i will company with you to visit my school aky bridge , in our country , as we all know , our school have a sky bridge , it has very long and and across street , everyday there full of student , from there they can they can see many beautiful flowers and campus , after that , i will company with you to visit my classroom , because there full of chinese culture , you can see many experience teacher 's and active student 's , if you want exerpence chinese culture , i will company with you , i believe you can beneficial from the class .	TECCL00171.txt
+cunpus	campus	9	I 'm look forward to you come to my cunpus , i think it is a good experience for you and increase your foreign culture .	TECCL00171.txt
+Myhometown	My hometown	0	Myhometown is a beautiful place .	TECCL00172.txt
+visting	visiting	4	So it is worth visting .	TECCL00172.txt
+sceneary	scenery	1	There sceneary is very beautiful .	TECCL00172.txt
+isnot	is not	1	It isnot very beautiful also is not very atmosphere , but here are my brother and love .	TECCL00173.txt
+introuduce	introduce	4	I 'd like to introuduce them to you , let you exprience the belongs to my warm .	TECCL00173.txt
+exprience	experience	11	I 'd like to introuduce them to you , let you exprience the belongs to my warm .	TECCL00173.txt
+ture	true	7	l always believe that they will come ture in future .	TECCL00174.txt
+Rerently	Recently	0	Rerently , a foreign friend of mine is coming to vist China .	TECCL00175.txt
+vist	visit	10	Rerently , a foreign friend of mine is coming to vist China .	TECCL00175.txt
+instresting	interesting	10	I will take him to see what is the most instresting place .	TECCL00175.txt
+admireable	admirable	5	IT is very beautiful and admireable .	TECCL00175.txt
+instresting	interesting	9	finally i hope a friend of mine can be instresting to those place .	TECCL00175.txt
+respet	respect	8	So lots of people came here because of respet for the fame .	TECCL00176.txt
+bbelieve	believe	2	I 'm bbelieve you will have a beautiful memory .	TECCL00177.txt
+yyou	you	9	I 'm sure you will be good , when yyou see a piece of ripe crops .	TECCL00177.txt
+cconcerned	concerned	5	As far as l 'm cconcerned , l hope can go to your place to sit .	TECCL00177.txt
+vist	visit	18	I am very happy you can come to China , as you best friend I will with you vist chinese scenery and places of interest .	TECCL00178.txt
+jourmey	journey	6	You must think it is the jourmey has not been made in vain .	TECCL00178.txt
+farmous	famous	6	Now l will tall you some farmous places .	TECCL00179.txt
+crnturies	centuries	8	lt has a history of more than twenty crnturies .	TECCL00179.txt
+oncelived	once lived	2	Twenty-four emperors oncelived there .	TECCL00179.txt
+otherwisr	otherwise	0	otherwisr , you could visit many other historic places and beautiful scence such as Summer Palace .	TECCL00179.txt
+scence	scene	11	otherwisr , you could visit many other historic places and beautiful scence such as Summer Palace .	TECCL00179.txt
+aII	all	3	The Forbidden city aII stand for China .	TECCL00180.txt
+vevy	very	2	I am vevy happy to introduce my beautiful hometown .	TECCL00181.txt
+advertages	advantages	5	There are a lot of advertages and benefit in the city~MaAnShan .	TECCL00181.txt
+interesing	interesting	20	HeFei as the center of AnHui , it is economy is very fast and every year it still make great interesing .	TECCL00182.txt
+modle	model	12	And HeFei has lots of places of interest , such as the modle of island and others You konw , as a city try his best to develope articilate , his environment must be damaged .	TECCL00182.txt
+konw	know	18	And HeFei has lots of places of interest , such as the modle of island and others You konw , as a city try his best to develope articilate , his environment must be damaged .	TECCL00182.txt
+develope	develop	27	And HeFei has lots of places of interest , such as the modle of island and others You konw , as a city try his best to develope articilate , his environment must be damaged .	TECCL00182.txt
+articilate	articulate	28	And HeFei has lots of places of interest , such as the modle of island and others You konw , as a city try his best to develope articilate , his environment must be damaged .	TECCL00182.txt
+goverment	government	2	And our goverment has made lots of work to control it .	TECCL00182.txt
+hasing	having	4	People lives here , hasing a busy life .	TECCL00182.txt
+exereise	exercises	6	Old people has used to doing exereise very morning and evening And people is very kind to help some in trouble .	TECCL00182.txt
+vist	visit	9	They are very happy to welcome foreign people to vist here .	TECCL00182.txt
+attarcting	attracting	9	There are beautiful views from foot to top , attarcting a great many tourists to take photos with them , the most famous is The Pine Greeting Guests .	TECCL00185.txt
+veriety	variety	3	Finally , a veriety of delicious foods are temping .	TECCL00185.txt
+temping	tempting	8	Finally , a veriety of delicious foods are temping .	TECCL00185.txt
+veriety	variety	8	Mount Huangshan is a scenic zone full of veriety and energy , I believe my foreign friend will enjoy her days here .	TECCL00185.txt
+emmision	emission	36	secondly , some people really have to buy a private car , however , because of the pressure of private car 's pollution tax , they will choose to buy a car which has the low emmision level .	TECCL00188.txt
+decrase	decrease	4	Thus , it will decrase the amount of air pollution and slow down the global warming .	TECCL00188.txt
+Futhermore	Furthermore	0	Futhermore , under the pressure of `` pollution tax '' , people will try their best to limit the use of private cars and support public transportation .	TECCL00189.txt
+Becasue	Because	0	Becasue of that , we can easily know that creating a Conservation-Oriented World is very essential .	TECCL00193.txt
+Nowdays	Nowadays	0	Nowdays , wasting is become very serious phenomenon , so more and more people have realized that creating a conservation-oriented campus is important to us .	TECCL00195.txt
+aftre	after	4	Turn off the lights aftre leaving the classroom to save power , thus to save coals , finally to decrease carbon dioxide .	TECCL00201.txt
+transporation	transportation	12	Last but not the least , we may as well take public transporation , such as , go to school by bus instead of taking a taxi	TECCL00201.txt
+gerneral	general	1	In gerneral , Low-carbon lifestyle is composed of three aspects .	TECCL00206.txt
+festiles	pesticides	10	First of all , in agriculture , much more organic festiles are taking the place of chemical festiles , which does make a great difference in protect-ing farmlands and rivers from being destroyed .	TECCL00206.txt
+festiles	pesticides	17	First of all , in agriculture , much more organic festiles are taking the place of chemical festiles , which does make a great difference in protect-ing farmlands and rivers from being destroyed .	TECCL00206.txt
+imediately	immediately	19	Last but not least , in our daily life , we would rather reuse water than pour it out imediately .	TECCL00206.txt
+decreas	decrease	17	Low-carbon lifestyle means we should find a way not only can make our life comfortable but also decreas carbon dioxide 's produce .	TECCL00207.txt
+sthdent	student	3	Our university school sthdent as one of sociey it 's also our dety to make a low-carbon lifestyle .	TECCL00207.txt
+sociey	society	7	Our university school sthdent as one of sociey it 's also our dety to make a low-carbon lifestyle .	TECCL00207.txt
+dety	duty	12	Our university school sthdent as one of sociey it 's also our dety to make a low-carbon lifestyle .	TECCL00207.txt
+beautifui	beautiful	10	It 's no double that our wold will be more beautifui if everyone have a low-carbonlifestyle .	TECCL00207.txt
+Nowday	Nowaday	0	Nowday low-carbon lifestyle is gaining popularity with more and people , including .	TECCL00210.txt
+whichwill	which will	17	For example , when we shopping , we use cloth bags instead of using plastic bags , whichwill surely benifits to our enuironment .	TECCL00210.txt
+benifits	benefits	19	For example , when we shopping , we use cloth bags instead of using plastic bags , whichwill surely benifits to our enuironment .	TECCL00210.txt
+enuironment	environment	22	For example , when we shopping , we use cloth bags instead of using plastic bags , whichwill surely benifits to our enuironment .	TECCL00210.txt
+ligths	lights	6	Also , we should turn off ligths when we are not using them .	TECCL00210.txt
+whichmake	which make	8	All of this above is low-carbon lifestyle , whichmake a diffience in protecting our plante .	TECCL00210.txt
+diffience	difference	10	All of this above is low-carbon lifestyle , whichmake a diffience in protecting our plante .	TECCL00210.txt
+usto	us to	6	Frist , it is necessary for usto use both sides of the paper in our notebooks .	TECCL00210.txt
+formore	for more	3	second , calling formore attention to low-carbon lifestyle is also useful .	TECCL00210.txt
+Besies	Besides	0	Besies , we should try our best to enable more people to realize	TECCL00211.txt
+hou	how	2	However , hou many people really know it ?	TECCL00212.txt
+cound	could	4	Of cause , I cound not make a good explanation .	TECCL00212.txt
+derectly	directly	2	but I derectly do my best to learn what the Low-corbon Lifestyle is	TECCL00212.txt
+restently	recently	12	According to a report , this life is the best life until restently .	TECCL00212.txt
+diffience	difference	5	Low-coebon lifestyle make a great diffience in soving this problem .	TECCL00212.txt
+soving	solving	7	Low-coebon lifestyle make a great diffience in soving this problem .	TECCL00212.txt
+importence	importance	4	When we learn the importence of the low-corbon lifestyle , as students , what can we do for this ?	TECCL00212.txt
+somethings	something	5	First , we can do somethings around ourselves .	TECCL00212.txt
+chopstics	chopsticks	21	For instance , reduce water , turn off the light as we leave our room , and do not use one-time chopstics .	TECCL00212.txt
+enviornment	environment	11	Besides , we can make some posts which are about protecting enviornment , so that more people will engage in the activety .	TECCL00212.txt
+activety	activity	21	Besides , we can make some posts which are about protecting enviornment , so that more people will engage in the activety .	TECCL00212.txt
+furture	future	18	I believe that if we are able to this , the life will become more beautiful in the furture .	TECCL00212.txt
+Nowdays	Nowadays	0	Nowdays , there is no denying that low-carbon lifestyle has become a popular thing across the nation .	TECCL00216.txt
+Nowdays	Nowadays	0	Nowdays , more and more emphases are being put on low-carbon lifestyle , and it is more and more popular to initiate low-carbon lifestyle .	TECCL00217.txt
+exccessively	excessively	3	Trees are split exccessively .	TECCL00218.txt
+remenber	remember	2	Specificly , remenber to turn off the lights when you are the last one to leave the room .	TECCL00218.txt
+lifestye	lifestyle	17	Actually , we will protect our environment as well as be more healthier by living in low-carbon lifestye .	TECCL00218.txt
+Acompanied	Accompanied	0	Acompanied by the accelerated pace of civilization , CO2 emitted by fossil fuels are endangering	TECCL00220.txt
+lifesyle	lifestyle	13	This lifestyle is for everyone and everyone can do something for this popular lifesyle .	TECCL00222.txt
+enviroment	environment	20	As far as I am concerned , we must do some thing to live a low-carbon life to save our enviroment .	TECCL00222.txt
+ackonwledged	acknowledged	1	High ackonwledged college student as we are , we should do something to save our environment and live a Low-carbon Lifestyle .	TECCL00222.txt
+tings	things	4	There are lots of tings we can do to save us environment such as walk more and use less fossil fuel this will make our shy cleaner .	TECCL00222.txt
+Rmanber	Remember	0	Rmanber this small effort will make big difference .	TECCL00222.txt
+commen	common	5	Nowadays , there is a commen tendency that people prefer to live a low-carbon life rather than a heavy-polluted one .	TECCL00224.txt
+uesing	using	4	So-called low-carbon lifestyle is uesing less , but producing more , seemed excellent .	TECCL00224.txt
+ues	uses	5	For instant , a industry ues less resource but produce more productions than before by improving the technology	TECCL00224.txt
+reuesing	reusing	1	or reuesing the waste .	TECCL00224.txt
+yourslef	yourself	11	So whatever you are , please take your actions to make yourslef be more low-carbon !	TECCL00224.txt
+Reuesing	Reusing	0	Reuesing the water you wash your clothe , vegetables or fruits !	TECCL00224.txt
+yourslef	yourself	22	In a word , do everything whatever you can imagine and say '' Be a low-carbon man , I can '' to yourslef .	TECCL00224.txt
+privotal	pivotal	8	Everyone who travels in life all seeks the privotal element of achievement to accomplish their goals .	TECCL00230.txt
+Thridly	Thirdly	0	Thridly , that is what is meant by '' failure is the mother of success '' , which is highly advantageous to us to establish self-confidence .	TECCL00233.txt
+Nevertherless	Nevertheless	0	Nevertherless , for self-contempt and overconfidence , it 's the vital parts to build self-confidence .	TECCL00235.txt
+Confidnce	Confidence	0	Confidnce is cumulate by small success .	TECCL00235.txt
+Adimittedly	Admittedly	0	Adimittedly , self-confidence plays a crucial role whether learning or life .	TECCL00241.txt
+Nevethless	Nevertheless	0	Nevethless without the confidence you could not stang in your life .	TECCL00246.txt
+Neverless	Nevertheless	0	Neverless , I would be hard-pressed to imagine how the method to be succeeded will reach their ends without active individual involvement .	TECCL00247.txt
+comfirm	confirm	7	I am pleased to be able to comfirm the schedule with security .	TECCL00254.txt
+sbjuct	subject	0	sbjuct : confirm the details for next week event	TECCL00264.txt
+assistanrs	assistants	17	Hello everyone , I would like to check details for an event next week with my two assistanrs .	TECCL00264.txt
+booke	book	3	first , we booke no .	TECCL00264.txt
+partener	partner	2	But one partener will be late because he need to attend an another important meeting .	TECCL00264.txt
+terchers	teachers	7	She did n't mind what the other terchers talk about me .	TECCL00266.txt
+clissifing	classifying	7	At first , our task was just clissifing clothes into different parts in the storehouse .	TECCL00267.txt
+Mabey	Maybe	0	Mabey we are all leave parents and live in school at first time , so we will always feel uncomfortable doing something and have a series of different problems , or some times will appear not harmonious problem .	TECCL00270.txt
+Howerver	However	0	Howerver , the harmony always be disturbed by someone sometimes .	TECCL00280.txt
+Spoets	Sports	0	Spoets are wonderful activity to link up .	TECCL00281.txt
+Coan	Conan	0	Coan Doyle wrote it in 1935 .	TECCL00283.txt
+mistery	mystery	12	Because of many things , they get together to find out the mistery of Amazon .	TECCL00285.txt
+exploer	explore	9	That 's why he lead Summerlee , Malone and exploer Lord John to prove the world was exist .	TECCL00289.txt
+mermoray	memory	7	There is an old event in my mermoray , i also could remember that day although it happened five years ago .	TECCL00296.txt
+beacuse	because	8	I could n't say anything on the party beacuse there were only one mind : we must have a reunion one day .	TECCL00296.txt
+heared	heard	10	I just could n't hold my tears out when i heared my friends singing goodbye songs for me .	TECCL00296.txt
+singsing	singing	14	When i got on the bus to Beijing i also can heard the song singsing in my mind .	TECCL00296.txt
+mermoray	memory	9	I think it is friendship and leave made this mermoray so important for me .	TECCL00296.txt
+couraged	encouraged	23	Five years past , sometimes i felt lonely and sad , there is always a song singing in my mind , this song couraged me to faced the problem .	TECCL00296.txt
+fulture	future	4	I think in the fulture there must be one day i can return my hometown and meet my friends one day .	TECCL00296.txt
+Suddently	Suddenly	0	Suddently , one of players in our team fell down while she was rushing to the final line .	TECCL00303.txt
+laughted	laughed	13	We had played computer games for a long time , we shouted and laughted when we won .	TECCL00309.txt
+tvshows	tv shows	46	In the next day morning my parents have gone to the other place I feel so happy and I buy some my favorite foods for breakfast then I watch tv until the lunchtime but I do n't feel hungry so I eat some snacks but the tvshows are so boring that I go to play basketballs with my friends until the dark then I go back to home and play the computer games but the time is too fast to me I play the game until the midnight then I sleep .	TECCL00313.txt
+swinged	swung	8	I was so worried that time that I swinged my mom 's cup .	TECCL00324.txt
+sach	such	6	It has many beautiful place : sach as the Great Wall , the Summer Place and so on .	TECCL00328.txt
+execellent	excellent	3	It have many execellent department stores .	TECCL00329.txt
+nobady	nobody	1	And nobady talking there .	TECCL00332.txt
+inprove	improve	5	And reading can help me inprove my reading level , increase my knowledge .	TECCL00332.txt
+piace	place	15	But in my shool not only have many room , but also have many interesting piace sush as In my school of the one floor have a piano , we can play the piano in our flee time .	TECCL00333.txt
+sush	such	16	But in my shool not only have many room , but also have many interesting piace sush as In my school of the one floor have a piano , we can play the piano in our flee time .	TECCL00333.txt
+planground	playground	8	And we can after lunch go to the planground .	TECCL00333.txt
+waih	with	4	Because we can play waih my classmeat .	TECCL00333.txt
+classmeat	classmate	6	Because we can play waih my classmeat .	TECCL00333.txt
+Wecanplayfoolball	We can play foolball	0	Wecanplayfoolball , play beskball , play pingpang , with the classmeat .	TECCL00333.txt
+beskball	baseball	3	Wecanplayfoolball , play beskball , play pingpang , with the classmeat .	TECCL00333.txt
+classmeat	classmate	10	Wecanplayfoolball , play beskball , play pingpang , with the classmeat .	TECCL00333.txt
+thegreater	the greater	145	My idea is that reading is a very happy thing for us , because reading can not only increase knowledge also can let us understand a lot of truth , can teach us how to be and to do things , reading can edify our sentiment , reading and learning for the growth of each and every one of us has an important influence , in this society only knowledge can change a person , in the spare time reading a good book can ignite the spark of thought and thinking , read lots of books can broaden our vision , also need the knowledge in the work , only knowledge can make us more convenient to do things in the work , to enrich our creativity is more and more knowledge I have to make the contributions to the development of the society , thegreater the brain is flexible , so I thought of reading is as long as have time to read a book , read books to enrich their own brain .	TECCL00336.txt
+mountion	mountain	15	Thought it was in summer , it was really cold on the top of the mountion .	TECCL00337.txt
+squre	square	17	The UnitedKingdom is located on the islands of West Europe with an area of 243 , 000 squre kilometers .	TECCL00340.txt
+parlimentary	parliamentary	4	The UnitedKingdom is a parlimentary constitutional monarchy .	TECCL00340.txt
+seside	seaside	13	That is a sunny day , and my parents and I went to seside , I 'm so excited that jumped into the sea as soon as I got there .	TECCL00342.txt
+hoilday	holiday	4	I like the summer hoilday so much .	TECCL00343.txt
+fersh	fresh	8	The sky is blue , the air is fersh .	TECCL00343.txt
+improtant	important	4	It 's my frist improtant match in my life , I represent our school , it 's my pleasure .	TECCL00345.txt
+waschange	was change	2	This championship waschange by our sweats , so lt 's very meaningful , and also very impressive .	TECCL00345.txt
+pround	proud	10	Although we lost the last game , we were still pround of for us .	TECCL00347.txt
+scence	scene	7	We were all attracted by the beautiful scence .	TECCL00347.txt
+firend	friend	27	It 's not only an advanced country , which has high building and robot ; but also a polite country , because there people who is very firend and kind .	TECCL00349.txt
+Althouth	Although	0	Althouth I got some knowledge in this , but I could n't also understand and solve them .	TECCL00350.txt
+knowladge	knowledge	12	First day we visit the London museum and we get lots of knowladge about London that made us feel more easy in next days .	TECCL00352.txt
+listent	listen	5	Teachers taught us spoken by listent English songs , we had a good time .	TECCL00352.txt
+hosters	hosts	12	Next day we went to a beach and play games with our hosters so that we can get on well with each other .	TECCL00352.txt
+lenrnt	learnt	4	In the afternoon we lenrnt writting .	TECCL00352.txt
+writting	writing	5	In the afternoon we lenrnt writting .	TECCL00352.txt
+sumnmer	summer	9	I went to climb the Xiangshan Hill in the sumnmer vacation .	TECCL00355.txt
+gamesin	games in	3	We played many gamesin the afternoon .	TECCL00355.txt
+pagota	pagoda	10	Next day , we continued visited , include Da yan pagota , Qu jiang , Xiao zhai .	TECCL00358.txt
+qem	gem	4	All over the world qem are treasured in there .	TECCL00359.txt
+feeled	felt	2	The air feeled clear .	TECCL00361.txt
+viwswhich	views which	18	As we get to the high floor of the Oriental Pearl TV Tower , we see the attractive viwswhich includes the Huangpu River through the window .	TECCL00362.txt
+somethings	something	9	When we took the meal , we talking about somethings funny .	TECCL00363.txt
+enioyed	enjoyed	1	We enioyed ourselvous .	TECCL00363.txt
+ourselvous	ourselves	2	We enioyed ourselvous .	TECCL00363.txt
+Finshining	Finishing	0	Finshining the meal , we went out .	TECCL00363.txt
+advence	advance	8	I wanted to take out my wallet in advence .	TECCL00363.txt
+possble	possible	9	I decided to return the noshery as soon as possble .	TECCL00363.txt
+Suddently	Suddenly	0	Suddently , I heared someone shouting .	TECCL00363.txt
+heared	heard	3	Suddently , I heared someone shouting .	TECCL00363.txt
+curiousty	curiously	3	I turned round curiousty .	TECCL00363.txt
+suprised	surprised	2	I was suprised when I saw the people who was the waiter in the noshery .	TECCL00363.txt
+serveal	several	2	There are serveal reasons following .	TECCL00364.txt
+montionless	motionless	2	Pictures were montionless , which means that it can only explain a second , but not a motion .	TECCL00364.txt
+disadvangtages	disadvantages	6	So , the one of obvious disadvangtages is that pictures can not express all the details consisitently .	TECCL00364.txt
+consisitently	consistently	16	So , the one of obvious disadvangtages is that pictures can not express all the details consisitently .	TECCL00364.txt
+lauguages	languages	5	On the contrary , whichever lauguages all over the world can satisfy people to express theirselfvs contently without any barriers .	TECCL00364.txt
+theirselfvs	themselves	15	On the contrary , whichever lauguages all over the world can satisfy people to express theirselfvs contently without any barriers .	TECCL00364.txt
+imformations	informations	7	Secondly , many people love more summarize imformations , but there are also some people were unqiue , they refuse to accept the second-hand imformations .	TECCL00364.txt
+unqiue	unique	16	Secondly , many people love more summarize imformations , but there are also some people were unqiue , they refuse to accept the second-hand imformations .	TECCL00364.txt
+imformations	informations	24	Secondly , many people love more summarize imformations , but there are also some people were unqiue , they refuse to accept the second-hand imformations .	TECCL00364.txt
+thoughs	thoughts	5	Although pictures can express some thoughs more directly and help people to understand quickly and easily , it may not be exactly more than the news word .	TECCL00364.txt
+turth	truth	12	Therefore , they rather to spend more time to figure out the turth , than to recive the ready-made imformations .	TECCL00364.txt
+recive	receive	16	Therefore , they rather to spend more time to figure out the turth , than to recive the ready-made imformations .	TECCL00364.txt
+imformations	informations	19	Therefore , they rather to spend more time to figure out the turth , than to recive the ready-made imformations .	TECCL00364.txt
+throught	through	41	Such as HARRY POTTER , there are lot of magical things that we even can ' catch a sight of it , we can ' t have a touch in our whole lifetime , but when we read the books , throught the words , we have feel the feeling of those unkown things .	TECCL00364.txt
+unkown	unknown	52	Such as HARRY POTTER , there are lot of magical things that we even can ' catch a sight of it , we can ' t have a touch in our whole lifetime , but when we read the books , throught the words , we have feel the feeling of those unkown things .	TECCL00364.txt
+hower	however	0	hower i don not like her .	TECCL00365.txt
+andshort	and short	6	because shi was so short short andshort .	TECCL00365.txt
+tryed	tried	1	I tryed to make her calm .	TECCL00365.txt
+bulit	built	4	The Great Wall was bulit many years ago .	TECCL00366.txt
+usuai	usual	6	This summer vacation does n't like usuai , I did n't go to the beach or other places .	TECCL00367.txt
+studing	studying	2	It improved studing hard will bring payment .	TECCL00367.txt
+airplan	airplane	6	when i arrive at Shanghai 's airplan i saw a old people slept on a chair and there 're no other people .	TECCL00369.txt
+universerties	universities	3	nowadays , many universerties are in dilemma when it comes to choose to job locations .	TECCL00382.txt
+thier	their	11	On big city , people would get many changes to develop thier ability , beacuse modren enterpirce and big companies are focus on big city .	TECCL00382.txt
+beacuse	because	14	On big city , people would get many changes to develop thier ability , beacuse modren enterpirce and big companies are focus on big city .	TECCL00382.txt
+modren	modern	15	On big city , people would get many changes to develop thier ability , beacuse modren enterpirce and big companies are focus on big city .	TECCL00382.txt
+enterpirce	enterprise	16	On big city , people would get many changes to develop thier ability , beacuse modren enterpirce and big companies are focus on big city .	TECCL00382.txt
+poplution	population	8	the small town are free form serious air poplution , heavy traffic , ceaseless noise and high cost of living .	TECCL00382.txt
+enjioy	enjoy	12	furthermore , with the help of various internet services , they can enjioy a colourful and exciting life as those big city do .	TECCL00382.txt
+bif	big	5	in my opinion , the bif city not only place for graduates to fully develop their abilities .	TECCL00382.txt
+gitter	glitter	3	precious stones will gitter wherever they are placed .	TECCL00382.txt
+recevie	receive	3	And they can recevie the most updated and advanced technology by doing researches in such universities .	TECCL00383.txt
+outstandings	outstanding	14	In addition to personal achievements , the nations would benefit a lot from the outstandings students who make great contributions to their motherlands by the knowledge and skills they gained abroad .	TECCL00383.txt
+outsanding	outstanding	19	Since around 100 years ago , a lot of developing countries such as Japan and China have been sending outsanding students abroad to learn the advanced technology from the western world and a great numbe of them have returned to help build their own countries such as Qian xuesen and Yang zhenning .	TECCL00383.txt
+numbe	number	34	Since around 100 years ago , a lot of developing countries such as Japan and China have been sending outsanding students abroad to learn the advanced technology from the western world and a great numbe of them have returned to help build their own countries such as Qian xuesen and Yang zhenning .	TECCL00383.txt
+brilliants	brilliant	28	There are certain drawbacks of studying overseas including the high tuition which will exert a huge financial burden on the working classes and the loss of talents and brilliants will undermine the nation 's further development too .	TECCL00383.txt
+pracitice	practice	14	Compared with China , the American schools give students the room of imagine and pracitice to let them have the creativity of study .	TECCL00384.txt
+bevelied	believed	2	It 's bevelied that the children who are sent to study abroad fell lonely when the holidays come and they 'll miss their family more often .	TECCL00384.txt
+childern	children	14	But as far as I am concerned , I think it 's good for childern to study abroad .	TECCL00384.txt
+Rearding	Reading	0	Rearding English stories is a good idea .	TECCL00385.txt
+Knowall	Know all	0	Knowall	TECCL00386.txt
+byby	byebye	6	Thank you for your question , byby !	TECCL00392.txt
+remcember	remember	8	I am very glad that you want to remcember English words .	TECCL00395.txt
+remcember	remember	7	Listening words is a good idea to remcember English words .	TECCL00395.txt
+remcember	remember	6	It 's a good way to remcember quickly .	TECCL00395.txt
+remcember	remember	15	Third , I also advice you , try to write every word every day ang remcember them in your head .	TECCL00395.txt
+remcember	remember	5	It 's can make you remcember the new words quickly .	TECCL00395.txt
+remeber	remember	2	How to remeber English words is a qusetion .	TECCL00400.txt
+qusetion	question	7	How to remeber English words is a qusetion .	TECCL00400.txt
+uderstand	understand	12	You can ask help for your teacher and class if you not uderstand .	TECCL00400.txt
+grammer	grammar	4	You should write down grammer mistakes and write down the correct spelling or the grammer next to the mistakes .	TECCL00400.txt
+grammer	grammar	14	You should write down grammer mistakes and write down the correct spelling or the grammer next to the mistakes .	TECCL00400.txt
+remenber	remember	2	Try to remenber 1-5 words every day , then you can lean English well day by day .	TECCL00400.txt
+repubilc	republic	14	BEIjing , also known as peking , is the capital of the people s repubilc of china and one of the most populous cities in the world with a populiab of 19 , 612 , 368 of 2010. the city is the contry , s polit ical cultural and educational center , and home to the headquarters for most of china lar gest state owen companies .	TECCL00403.txt
+populiab	popular	29	BEIjing , also known as peking , is the capital of the people s repubilc of china and one of the most populous cities in the world with a populiab of 19 , 612 , 368 of 2010. the city is the contry , s polit ical cultural and educational center , and home to the headquarters for most of china lar gest state owen companies .	TECCL00403.txt
+contry	country	42	BEIjing , also known as peking , is the capital of the people s repubilc of china and one of the most populous cities in the world with a populiab of 19 , 612 , 368 of 2010. the city is the contry , s polit ical cultural and educational center , and home to the headquarters for most of china lar gest state owen companies .	TECCL00403.txt
+polit	political	45	BEIjing , also known as peking , is the capital of the people s repubilc of china and one of the most populous cities in the world with a populiab of 19 , 612 , 368 of 2010. the city is the contry , s polit ical cultural and educational center , and home to the headquarters for most of china lar gest state owen companies .	TECCL00403.txt
+ical	political	46	BEIjing , also known as peking , is the capital of the people s repubilc of china and one of the most populous cities in the world with a populiab of 19 , 612 , 368 of 2010. the city is the contry , s polit ical cultural and educational center , and home to the headquarters for most of china lar gest state owen companies .	TECCL00403.txt
+metrpoolios	metropolis	1	the metrpoolios n , located in nor them china , border hebei prvince to the north west south and a small section to east and tianjin Municiplay to the southe east .	TECCL00403.txt
+prvince	province	12	the metrpoolios n , located in nor them china , border hebei prvince to the north west south and a small section to east and tianjin Municiplay to the southe east .	TECCL00403.txt
+southe	south	29	the metrpoolios n , located in nor them china , border hebei prvince to the north west south and a small section to east and tianjin Municiplay to the southe east .	TECCL00403.txt
+beautiulful	beautiful	3	BEIjing is a beautiulful city in china .	TECCL00403.txt
+adea	idea	6	second , it is a good adea to spell and pronnouce new words aloud every day !	TECCL00405.txt
+pronnouce	pronounce	10	second , it is a good adea to spell and pronnouce new words aloud every day !	TECCL00405.txt
+impotance	importance	6	firstly , persistence is of utmost impotance .	TECCL00407.txt
+fundation	foundation	5	also , vocabulary is the fundation of all your learning .	TECCL00407.txt
+remeber	remember	6	What 's more , you should remeber 10-20 words a day .	TECCL00410.txt
+whtching	watching	0	whtching films and lisnening to songs are great ways to learn englishi !	TECCL00411.txt
+lisnening	listening	3	whtching films and lisnening to songs are great ways to learn englishi !	TECCL00411.txt
+englishi	English	11	whtching films and lisnening to songs are great ways to learn englishi !	TECCL00411.txt
+themeaning	the meaning	8	watch and listen several times , and guss themeaning of new words .	TECCL00411.txt
+taalk	talk	5	I also advise you to taalk about the films or songs with youe friends .	TECCL00411.txt
+youe	your	12	I also advise you to taalk about the films or songs with youe friends .	TECCL00411.txt
+tradional	traditional	6	It 's a time for a tradional dinner with jiaozi amang family .	TECCL00418.txt
+progamme	programme	5	We watch a special TV progamme until a midnight .	TECCL00418.txt
+luckeymoney	lucky money	11	On that day we usually wear new clothes and children get luckeymoney from them parents oh right we clean the room before spring festival to get rid of bad luck we watch spring festival gala .	TECCL00421.txt
+Itl	It	0	Itl usually happens in January or February .	TECCL00423.txt
+remebered	remembered	14	I think he is a very important person in China and he is still remebered in both China and Canada today .	TECCL00426.txt
+enviromental	environmental	12	Second , try hard to develop possible transportation means , which are enviromental friendly .	TECCL00430.txt
+frends	friends	4	because the are our frends .	TECCL00430.txt
+ractory	factory	5	Reduce the number of large ractory .	TECCL00433.txt
+aregue	argue	2	Some people aregue that its advantageous .	TECCL00435.txt
+datas	data	10	To start with it will convenient when we handle some datas , Further more we should follow the development of the times and progress of the time , Finally since we have the Inthernet , we can buy anything at home .	TECCL00435.txt
+grandually	gradually	3	Firstly people are grandually relying on the Internet , Secondly young people playing online every day to completely ingore the study .	TECCL00435.txt
+ingore	igore	18	Firstly people are grandually relying on the Internet , Secondly young people playing online every day to completely ingore the study .	TECCL00435.txt
+vioce	voice	17	Today , the Earth is facing many pollutions , such as air pollution , water pollution , vioce pollution , and etc .	TECCL00442.txt
+Ialways	I always	0	Ialways turn off the lights in the dassroom when we leave .	TECCL00442.txt
+dassroom	classroom	7	Ialways turn off the lights in the dassroom when we leave .	TECCL00442.txt
+bearconsciousness	bear consciousness	4	After school , i bearconsciousness of environment protecetion in mind .	TECCL00442.txt
+protecetion	protection	7	After school , i bearconsciousness of environment protecetion in mind .	TECCL00442.txt
+tribution	contribution	6	I believe that in dividual con tribution to the environment will builda more beautiful world .	TECCL00442.txt
+builda	build a	11	I believe that in dividual con tribution to the environment will builda more beautiful world .	TECCL00442.txt
+itis	it is	17	When you look at the sky , you can discover that it is no longer blue , itis grey .	TECCL00442.txt
+aleadlu	already	5	this means the air is aleadlu polluted .	TECCL00442.txt
+peaple	people	5	I believe a lot of peaple like swimming When you go to the beach , you can see that the sea the dirtier than before .	TECCL00442.txt
+vhain	chain	21	If we continue to pollute the water , more animals will die , and that will effect our human 's food vhain .	TECCL00442.txt
+dirve	drive	2	When you dirve in the road , and you hear a lot of the car trumpet sending out noises , do n't you feel vexed ?	TECCL00442.txt
+envirmental	environmental	11	If you always meet these situation , you should tell the envirmental pritection bureau , they wil help you .	TECCL00442.txt
+pritection	protection	12	If you always meet these situation , you should tell the envirmental pritection bureau , they wil help you .	TECCL00442.txt
+envirment	environment	4	We can protect our envirment in other ways too .	TECCL00442.txt
+habbit	habit	6	If we all stop the bad habbit of thowing trash anywhere , you would see a much more beautiful city .	TECCL00442.txt
+thowing	throwing	8	If we all stop the bad habbit of thowing trash anywhere , you would see a much more beautiful city .	TECCL00442.txt
+enconmy	economy	6	With the rapid development of world enconmy .	TECCL00442.txt
+envirment	environment	16	many people come to realize that we have got the development at the cost of our envirment .	TECCL00442.txt
+repored	reported	3	It is often repored that we are suffering more and more disasters because of the damaged environment .	TECCL00442.txt
+fobid	forbid	5	We should pass laws to fobid cutting down trees .	TECCL00442.txt
+Widl	Wild	0	Widl animals should be well protected .	TECCL00442.txt
+youshould	you should	1	Ever youshould know the importance of protecting environment .	TECCL00442.txt
+persues	pursues	3	Almost every girl persues beauty in appearance .	TECCL00445.txt
+adimtted	admitted	23	From primary school , we have be told that if you want a good job , you must study hard so that be adimtted a good university .	TECCL00447.txt
+taked	took	15	When he was six , he went to Academy of Traditional Chinese Opera where he taked in opera .	TECCL00447.txt
+breakthough	breakthrough	8	In the film industry , he continually creates breakthough and myth .	TECCL00447.txt
+commem	common	7	Generally , these top students have some commem characteristics .	TECCL00448.txt
+Fistly	Firstly	0	Fistly , top students are all clever but not the best .	TECCL00448.txt
+steadfasty	steadfast	4	So they always study steadfasty .	TECCL00448.txt
+Secodly	Secondly	0	Secodly , top students always make full use of their time , they know the time is equal to everyone , but peple use it in different way , and the result of course are different .	TECCL00448.txt
+peple	people	22	Secodly , top students always make full use of their time , they know the time is equal to everyone , but peple use it in different way , and the result of course are different .	TECCL00448.txt
+themselvese	themselves	12	Thirdly , top students have a strong ability what they can put themselvese into things deeply .	TECCL00448.txt
+amirable	admirable	9	`` In the university , the top students are amirable .	TECCL00449.txt
+commen	common	7	According to the the teacher and other commen students , there are something in commen betwwen these top students .	TECCL00449.txt
+commen	common	14	According to the the teacher and other commen students , there are something in commen betwwen these top students .	TECCL00449.txt
+betwwen	between	15	According to the the teacher and other commen students , there are something in commen betwwen these top students .	TECCL00449.txt
+nespapers	newspapers	14	Once the books are open , phone calls go unanswered , TV unwatched and nespapers unread .	TECCL00449.txt
+studing	studying	10	At last , taking good notes , asking question and studing togeher are their approach to study .	TECCL00449.txt
+togeher	together	11	At last , taking good notes , asking question and studing togeher are their approach to study .	TECCL00449.txt
+pround	proud	4	them ; Parents are pround of them .	TECCL00450.txt
+foucs	focus	7	Even a word is forbidden while they foucs on their study .	TECCL00451.txt
+approachs	approaches	6	Because group study could tried different approachs and explained their solutions to one another .	TECCL00451.txt
+topest	top	14	Easier said than done , I must try harder in order to become the topest one .	TECCL00451.txt
+activetly	actively	15	Second , we should listen to the teachers attentively and answer the teachers ' questions activetly in class and do what teachers ask our to do after class .	TECCL00452.txt
+plung	plunge	2	I am plung into the study , I in the learning process regardness of the difficulties encountered will not give up .	TECCL00452.txt
+regardness	regardless	12	I am plung into the study , I in the learning process regardness of the difficulties encountered will not give up .	TECCL00452.txt
+exampleare	example are	7	The other students take them as an exampleare .	TECCL00454.txt
+uptheir	up their	32	Since this is sensible since , I have come across many people who love to help others , they are the kind of selfless dedication to the happiness of others to give uptheir well-being of the spirit moved me deeply .	TECCL00458.txt
+vot	vote	5	His second invention is electric vot recorder .	TECCL00463.txt
+confortable	comfortable	11	he use his life to created what can made people life confortable and help science improving things .	TECCL00463.txt
+charactors	characters	18	Besides , she would ask his friends and workmates for help to have a better understanding of his charactors , hobbies , and so on .	TECCL00470.txt
+responce	response	14	Well-prepared , she would list the useful questions in order and think of his responce as well as the methords to deal with it .	TECCL00470.txt
+methords	methods	19	Well-prepared , she would list the useful questions in order and think of his responce as well as the methords to deal with it .	TECCL00470.txt
+colourises	colourists	12	From all above , we can see that being creative not only colourises our daily life but also brings benefits to business field , leading to a life of high quality .	TECCL00475.txt
+fastfood	fast food	10	Then , which restaurant will you choose , a McDonald fastfood restaurant or a Chinese restaurant like the Grandma 's Home ?	TECCL00478.txt
+pretented	pretended	4	Seeing that pathetic lady pretented to be fine with her heart-broken eyes , I was affected .	TECCL00483.txt
+flied	flew	5	Astonished and excited , I flied to the station quickly .	TECCL00485.txt
+relys	relies	12	For me , happiness not only depends on material , but also relys on mental .	TECCL00492.txt
+oringinal	original	15	A person who is creative means he or she is good at producing or using oringinal and unusual ideas .	TECCL00497.txt
+hurted	hurt	13	As a result , he set foot on the corner , like a hurted hedgehog encasing itself immediately .	TECCL00032.txt
+ang	and	24	On the other hand , it makes shopping more and more convenient , people can stay at home then to buy what they need ang want , though it windy or rainy or snowy .	TECCL00077.txt
+Keroa	Korea	7	We all know that , the South Keroa , which used the system so many years , had resisted the system before a couple of month ago .	TECCL00079.txt
+Amost	Almost	0	Amost everyone did their best to attend college .	TECCL00084.txt
+fouth	fourth	2	In the fouth year of my senior high shool life , I worked harder than ever before .	TECCL00099.txt
+shool	school	8	In the fouth year of my senior high shool life , I worked harder than ever before .	TECCL00099.txt
+Normer	Normal	5	Today I went to Heifei Normer University and pursue my dream .	TECCL00112.txt
+Internat	Internet	6	When I open the world of Internat , I full in love with online shopping .	TECCL00128.txt
+womens	women	3	Many men and womens like it .	TECCL00136.txt
+mang	many	12	There are also several cinema halls , some amusement parks and have mang flower and tree .	TECCL00141.txt
+ome	come	11	My best friend , I am very happy that you can ome China to visit my hometown .	TECCL00142.txt
+Geat	Great	6	l take you to visit the Geat Wall , want you can see china shows wisdom with talents of the traditional chinese people , and you will feel chinese strool sipirt .	TECCL00144.txt
+sprits	spirits	7	In contrast , he will find the sprits of chinaese is so admireing .	TECCL00170.txt
+lifes	lives	8	This also can let you feel yokels ' lifes .	TECCL00177.txt
+kwon	know	1	You kwon HeFei is the center of AnHui .	TECCL00182.txt
+strat	start	1	To strat with , Mount Huangshan is a symbol of Anhui Province , which has a long history .	TECCL00185.txt
+ang	and	16	I still bold the idea that if strictly enforced , it will sure improve our environment ang give us fresh air .	TECCL00186.txt
+unconvenience	inconvenience	3	Although it brings unconvenience to someone , it is really a good way to solve the environmental problem .	TECCL00188.txt
+ou	our	22	Of course , it must be kept in mind that all people , including the private car owners that we should try ou best to protect the environment .	TECCL00191.txt
+ang	and	10	Secondly , the resources in our earth are becoming more ang more lacking of , we ought to leave some of them for our later generations .	TECCL00196.txt
+mang	many	19	To create a conservation-oriented campus , we should suggest the leader of our school that we do n't need mang lights in our campus .	TECCL00198.txt
+plante	planet	14	All of this above is low-carbon lifestyle , whichmake a diffience in protecting our plante .	TECCL00210.txt
+Frist	First	0	Frist , it is necessary for usto use both sides of the paper in our notebooks .	TECCL00210.txt
+plante	planet	7	On the whole we only have one plante , we should try our best to protect it by living low-carbon lifestyle .	TECCL00210.txt
+beens	beings	4	For example , human beens can do that one will use the wast-water to do other things , which is very useful .	TECCL00212.txt
+lifes	lives	16	As society developing , our lifers level is become better and better , our demands to lifes also becoming higher and higher , for example , low-carbon lifestyle is becoming more and more popular .	TECCL00223.txt
+lifes	lives	7	Low-carbon lifestyle involves many aspects in our lifes , in society low-carbon lifestyle means decrease CO2 , so we should go to work or school by bus but not take cars , we should protect and plant more trees to absorb CO2 .	TECCL00223.txt
+lifes	lives	3	For our every-day lifes , we should try our best to decrease energy , for instance , when you do n't stay at home , you should turn off lights , when you do n't want to watch TV , please do n't turn it on .	TECCL00223.txt
+lifes	lives	11	As a college student , I 'm responsible for letting our lifes better and better , so I plan to do these things : First , I will learn more knowledge about low-carbon lifestyle so that I can do more things .	TECCL00223.txt
+foy	for	14	When it came to the grade 3 , maths achievement became much more important foy the upcoming college entrance examination .	TECCL00232.txt
+Chenllenger	Challenger	8	A reporter called Malone , a professor called Chenllenger who saw dinosaurs , another professor called Summerlee who did n't believe Chellenger and an adventurer called Lord John went to the lost world .	TECCL00287.txt
+Chellenger	Challenger	21	A reporter called Malone , a professor called Chenllenger who saw dinosaurs , another professor called Summerlee who did n't believe Chellenger and an adventurer called Lord John went to the lost world .	TECCL00287.txt
+Chellenger	Challenger	8	The other people went to save him with Chellenger 's balloon .	TECCL00287.txt
+Jepanese	Japanese	1	The Jepanese 's efficiency were very high and they enjoyed it .	TECCL00297.txt
+woking	waking	4	But I was not woking up on time and I hurried to school without breakfast .	TECCL00307.txt
+shool	school	3	But in my shool not only have many room , but also have many interesting piace sush as In my school of the one floor have a piano , we can play the piano in our flee time .	TECCL00333.txt
+ang	and	6	It was a castle with white ang green .	TECCL00337.txt
+Fujisan	Fujian	6	In Tokyo , we visited the Fujisan .	TECCL00337.txt
+flet	felt	1	I flet I was a fish in the sea We played ball games in the sea .	TECCL00342.txt
+frist	first	3	It 's my frist improtant match in my life , I represent our school , it 's my pleasure .	TECCL00345.txt
+ang	and	3	We won again ang again , that made us so exciting .	TECCL00347.txt
+ang	and	7	We looked so many of the mountain ang lake that the beautiful .	TECCL00347.txt
+ang	and	10	Finally our camp was over I learnt lots of things ang had a great holiday .	TECCL00352.txt
+lof	lot	13	we observed the plants , we got close to nature and learnt a lof of things on plants .	TECCL00355.txt
+thi	the	7	That all , thank for you read thi article .	TECCL00359.txt
+nerver	never	5	To them , life is nerver dull in big city .	TECCL00382.txt
+broden	broaden	8	Secondly , they can open their eyes and broden their views by studying abroad .	TECCL00384.txt
+Enjlish	English	13	Wang Li , I 'm very happy to know you want to learn Enjlish .	TECCL00392.txt
+ang	and	14	Third , I also advice you , try to write every word every day ang remcember them in your head .	TECCL00395.txt
+belive	believe	1	i belive yon well remember English words soon !	TECCL00405.txt
+Sping	Spring	3	People celebrate the Sping Festival in January or February , so it is n't on the same day .	TECCL00414.txt
+Sping	Spring	9	What do people do in China to celebrate the Sping Festival ?	TECCL00414.txt
+Festivai	Festival	1	Spring Festivai is celebrated from the evening before it .	TECCL00418.txt
+amang	among	10	It 's a time for a tradional dinner with jiaozi amang family .	TECCL00418.txt
+wy	my	1	In wy opinion , we should stop ourselves from polluting at first .	TECCL00429.txt
+Howeber	However	13	Some people argue the Internet can make learning and work more efficient , Howeber other maintain the internet for young people to indulge in and then affect learning .	TECCL00435.txt
+Inthernet	Internet	33	To start with it will convenient when we handle some datas , Further more we should follow the development of the times and progress of the time , Finally since we have the Inthernet , we can buy anything at home .	TECCL00435.txt
+rhe	the	1	Because rhe factory emits roo much dirty air .	TECCL00442.txt
+roo	too	4	Because rhe factory emits roo much dirty air .	TECCL00442.txt
+stoa	stop	3	Howe should we stoa the air pollution ?	TECCL00442.txt
+wil	will	16	If you always meet these situation , you should tell the envirmental pritection bureau , they wil help you .	TECCL00442.txt
+fet	felt	9	She is teller than me but she than I fet .	TECCL00444.txt
+bult	built	5	When he was thirty he bult an invention factory .	TECCL00463.txt
+bult	built	3	In 1882 Edison bult first electric power station in the word It made New York people can use electric in life .	TECCL00463.txt
+lifes	lives	12	In my opinion , money is a very crucial thing for our lifes nowadays .	TECCL00465.txt
+Compter	Computer	13	At the second semester of Grade One , I sign on the National Compter Ranking Examination .	TECCL00489.txt
+tole	told	7	When my parents got home , l tole my home alone story , and we all laughed .	TECCL00317.txt
+bunt	burnt	13	When I got home , I tried to cook some food but I bunt it , and I broke my father 's cup , I felt I was so bad that I ca n't take care my self well .	TECCL00327.txt
+guss	guess	7	watch and listen several times , and guss themeaning of new words .	TECCL00411.txt
+borden	burden	11	Also they consume excessively , which gives their parents too much borden .	TECCL00006.txt
+jib	job	11	If only get the degree , can we find a good jib .	TECCL00084.txt
+duo	due	6	So there often have faint girl duo to the excessive dieting to lose weight .	TECCL00092.txt
+physic	physical	17	As long as we make a good use of computer , we can study more knowledge both physic and spiritual .	TECCL00094.txt
+cation	caution	7	So in our saftey we must be cation !	TECCL00127.txt
+collage	college	5	In a word , My collage school is beautific , Welcome to my campus !	TECCL00165.txt
+duo	due	11	the second i will take him to see the summer palace duo to it is home of emperor .	TECCL00175.txt
+Forth	Fourth	0	Forth , save on paper .	TECCL00197.txt
+lifers	life's	5	As society developing , our lifers level is become better and better , our demands to lifes also becoming higher and higher , for example , low-carbon lifestyle is becoming more and more popular .	TECCL00223.txt
+wold	would	1	I wold like to begin by pointing out that '' self-confident as education , we should pay attention to it when we were a child '' .	TECCL00247.txt
+ia	is	3	The Lost World ia a great book .	TECCL00284.txt
+allover	all over	10	Today , it is still read and loved by people allover the world .	TECCL00286.txt
+collectS	collects	2	MY grandfather collectS old things and the broken vase is his favourite one , even if I was 8 years old , I knew I made a big mistake .	TECCL00302.txt
+mu	my	3	He just touched mu head and asked me if I be hurted by the piece of the vase .	TECCL00302.txt
+th	the	1	In th end of my high school , we had quantities of time to talk about the past three years .	TECCL00115.txt
+te	the	1	During te tirp i wish him can know china is a beatiful place to live in and learn some poitive things .	TECCL00148.txt
+ti	it	1	So ti si very crucial to create a conservation-oriented campus .	TECCL00198.txt
+si	is	2	So ti si very crucial to create a conservation-oriented campus .	TECCL00198.txt
+ti	it	21	Im used to hang out in the playground after lunch , because it is healthy to walk after lunch , and ti is a good place for you to make friend and we can share experience on students .	TECCL00334.txt
