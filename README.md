@@ -1,4 +1,4 @@
-# A spellcheck tool for constructing large scale learner English corpora 
+# A spellcheck tool for data preprocessing in constructing large scale learner English corpora 
 ## Data for Evaluation
 See file: gold500.txt,https://github.com/aarondeng/spellcheck4learner/blob/master/gold500.txt
 ### data source
